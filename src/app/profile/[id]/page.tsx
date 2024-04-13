@@ -1,6 +1,6 @@
 
 
-const UserProfile = ({params}) => {
+const UserProfile = ({params}:any) => {
   return (
     <>
     <div>
